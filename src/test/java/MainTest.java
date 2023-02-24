@@ -22,7 +22,6 @@ public class MainTest {
     private Main createCalc(){
         return new Main();
     }
-
     @Test
     @Story("User Story 2")
     @Description("Description created to testAddWithNegative test")
