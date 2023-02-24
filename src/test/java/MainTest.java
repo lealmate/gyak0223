@@ -30,6 +30,6 @@ public class MainTest {
     public void testAddWithNegative(){
         Main main = new Main();
 
-        Assertions.assertEquals(-5, main.Add(-2, -3));
+        Assertions.assertEquals(-6, main.Add(-2, -3));
     }
 }
